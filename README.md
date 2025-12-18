@@ -91,20 +91,6 @@ Backend Engineer | Spring Boot | Microservices | Scalable Systems
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taran12345678&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taran12345678&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taran12345678&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 Achievements
