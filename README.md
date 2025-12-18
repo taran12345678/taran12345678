@@ -1,0 +1,2 @@
+# Taranpreet-singh
+show detail
